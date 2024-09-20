@@ -5,9 +5,6 @@ Console.WriteLine($"The first {num} natural number is: ");
 for (int i=1; i<=num; i++)
 {
     Console.Write($"{ i} ");
-}
-for (int i=1; i <= num; i++)
-{
     sum += i;
 }
 Console.WriteLine($"\nThe sum of Natural Number upto {num} terms: {sum}");
