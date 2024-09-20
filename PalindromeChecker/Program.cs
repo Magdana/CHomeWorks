@@ -1,8 +1,8 @@
 ﻿Console.Write("input: ");
-string str=Console.ReadLine();
+string str = Console.ReadLine();
 char[] arr = str.ToCharArray();
-char[] newArr=arr.Reverse().ToArray();
-bool result=arr.SequenceEqual(newArr);
+char[] newArr = arr.Reverse().ToArray();
+bool result = arr.SequenceEqual(newArr);
 if (result)
 {
     Console.WriteLine("true");
