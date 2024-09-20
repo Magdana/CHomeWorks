@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits", "SumOfDigits\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfPrimes", "SumOfPrimes\SumOfPrimes.csproj", "{53124B85-BB5B-4F71-8501-2E617CBA5DC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "ChristmasTree\Diamond.csproj", "{2CCC5972-D8EF-475F-9B17-FC97271FACA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{53124B85-BB5B-4F71-8501-2E617CBA5DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53124B85-BB5B-4F71-8501-2E617CBA5DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53124B85-BB5B-4F71-8501-2E617CBA5DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCC5972-D8EF-475F-9B17-FC97271FACA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCC5972-D8EF-475F-9B17-FC97271FACA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCC5972-D8EF-475F-9B17-FC97271FACA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCC5972-D8EF-475F-9B17-FC97271FACA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
