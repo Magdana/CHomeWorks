@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSumOfTheSeries", "TheSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{F90826F8-D3C8-4106-B3D7-4ACF0191874F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{5A23D2C6-FF60-4183-9EF5-930C397B9EA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F90826F8-D3C8-4106-B3D7-4ACF0191874F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F90826F8-D3C8-4106-B3D7-4ACF0191874F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F90826F8-D3C8-4106-B3D7-4ACF0191874F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A23D2C6-FF60-4183-9EF5-930C397B9EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A23D2C6-FF60-4183-9EF5-930C397B9EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A23D2C6-FF60-4183-9EF5-930C397B9EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A23D2C6-FF60-4183-9EF5-930C397B9EA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
