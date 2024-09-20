@@ -7,9 +7,9 @@ for (int i = 1; i <= num; i++)
     {
         Console.Write(i + " ");
     }
-    else 
-    { 
-        continue; 
+    else
+    {
+        continue;
     }
 }
 
